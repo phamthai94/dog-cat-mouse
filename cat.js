@@ -1,9 +1,10 @@
 function Cat(name) {
     this.name = name;
-    this.stomatch = []; 
-    
+    this.stomatch = [];
+
 }
-Cat.prototype.eat = funtion(mouse){
+Cat.prototype.eat = funtion(mouse)
+{
     this.stomatch.push(mouse);
 }
 module.exports = Cat;
