@@ -3,7 +3,7 @@ function Cat(name) {
     this.stomatch = []; 
     
 }
-Cat.prototype.eat = funtion(mouse){
+Cat.prototype.eat = function (mouse){
     this.stomatch.push(mouse);
 }
 module.exports = Cat;
