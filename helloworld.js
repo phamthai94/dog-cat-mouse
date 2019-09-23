@@ -7,3 +7,4 @@ console.log(chalk.magenta.bold.italic('Hi '+ readline.question('input your name?
 var a = 'nakfhkahf';
 var b = 'b';
 var c = 'c';
+var d = 'd';
